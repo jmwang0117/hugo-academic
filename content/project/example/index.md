@@ -1,5 +1,5 @@
 ---
-slides: example
+title: example
 url_pdf: ""
 summary: National College Student Innovation and Entrepreneurship Training Project.
 url_video: ""
