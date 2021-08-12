@@ -30,7 +30,7 @@ education:
   courses:
     - course: BSc in Computer Science and Technology
       institution: Lanzhou Jiaotong University
-      year: ""
+      year: "2018-2022"
 email: jmwang0117@163.com
 superuser: true
 highlight_name: false
