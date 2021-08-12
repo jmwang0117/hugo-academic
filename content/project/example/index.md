@@ -1,41 +1,50 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: National College Student Innovation and Entrepreneurship Training Project.
+url_video: ""
+date: 2016-03-27T00:00:00.000Z
+external_link: "1"
+url_slides: ""
+title: High-precision geological deformation monitoring system based on Beidou
+  satellite
+tags: []
+links: []
+image:
+  caption: ""
+  focal_point: ""
+url_code: ""
 ---
+For many years, our country has been affected by geological disasters. Whether it is the safety of people's lives or the safety of national property, there are great hidden dangers, which mainly include landslides, mudslides, collapses, ground collapses and cracks. Therefore, it is urgent to strengthen the monitoring and prevention of geological disasters. The geological disaster monitoring system developed by this project covers multiple types of monitoring sensors such as GNSS, soil moisture sensors, rain gauges, temperature and humidity sensors, multiple communication systems, wind and solar power supply systems, industrial-grade lightning protection systems and professional deformation monitoring data processing Analysis software, various application client software, etc., can adopt different combinations for different types of monitoring projects to provide users with the most optimized, most reliable, and most effective deformation monitoring system solution.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+![](img_20200815_162457.jpg "Physical map of data acquisition layer")
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+
+#### **System Features:**
+
+* Accuracy up to millimeter level
+
+The Beidou satellite navigation and positioning system has the highest certification accuracy in the industry, and the whole system has strong multi-frequency anti-interference ability, which can realize high-precision monitoring of the three-dimensional deformation of the surface of the geological disaster point.
+
+* Support multi-mode communication
+
+It supports multiple communication methods such as GPRS/Beidou short message/4G/LoRa/NB-lot, and the real-time information transmission is strong.
+
+* Ultra-low-power design
+
+Integrated design, low power consumption, support for years of maintenance-free operation, stable performance, easy installation, complete monitoring.
+
+* Remote device management
+
+Really realize the remote interconnection of equipment, remote management of equipment and system upgrades can be realized with the help of the platform, and mobile client login system is also supported , so that data and alarm information can be conveniently and quickly viewed anytime, anywhere
+
+* High system reliability
+
+In response to different disaster forms, the effective selection and matching of sensors, while actively responding to national policies, realize the promotion of universal monitoring equipment, which not only achieves cost control , but also ensures the stability and reliability of the system for a long time.
+
+* Autonomous platform service
+
+The team independently builds a big data platform service architecture, uses cloud services to distribute, process, balance, manage and analyze data in real-time, and uses the web to interact with data, conduct professional model analysis for each monitoring point, and start based on the results of data fusion To the early warning and scheduling role
