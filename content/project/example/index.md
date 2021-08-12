@@ -4,7 +4,7 @@ url_pdf: ""
 summary: National College Student Innovation and Entrepreneurship Training Project.
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
-external_link: "1"
+external_link: example
 url_slides: ""
 title: High-precision geological deformation monitoring system based on Beidou
   satellite
