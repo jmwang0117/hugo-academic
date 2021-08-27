@@ -9,7 +9,7 @@ item:
     description: ""
     organization: China Society for Industrial and Applied Mathematics, China
     organization_url: "http://www.mcm.edu.cn/"
-    title:Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
+    title: Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
     url: ""
   - certificate_url: ""
     date_end: ""
