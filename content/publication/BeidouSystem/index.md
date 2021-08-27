@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
