@@ -67,14 +67,7 @@ item:
     organization_url: ""
     title: Li Zhengdao Scholarship (the only undergraduate winner in the school)
     url: ""
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2021-06-01
-    description: ""
-    organization: Lanzhou jiaotong university, China
-    organization_url: ""
-    title: Honorary Title of Innovative Person (the only undergraduate winner in the school)
-    url: ""
+
 
 widget_id: accomplishments
 headless: true
