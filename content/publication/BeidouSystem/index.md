@@ -1,24 +1,25 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "https://arxiv.org/abs/2103.03095"
+url_pdf: "https://dl.acm.org/doi/abs/10.1145/3438872.3439103"
 publication_types:
   - "1"
 authors:
-  - Libo Qin
-  - Tianbao Xie
-  - Wanxiang Che
-  - Ting Liu
+  - Junming Wang
+  - Jiuyuan Huo
+  - Lin Mu
+  - Hamzah Murad Mohammed Al-Neshmi
+  - Tao Ju
+
 author_notes: []
-publication: In *IJCAI 2021 (Survey Track)*
+publication: In *RICAI 2020 
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "A Survey on Spoken Language Understanding: Recent Advances and New
-  Frontiers"
+title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
 doi: ""
 featured: true
 tags: []
@@ -27,7 +28,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-04-01T00:00:00Z
+date: 2020-10-01T00:00:00Z
 url_slides: ""
 publishDate: 2021-04-01T00:00:00Z
 url_poster: ""
