@@ -28,6 +28,9 @@ organizations:
     url: http://www.lzjtu.cn/
 education:
   courses:
+    - course: Master of Philosophy (MPhil)
+      institution: The University of Hong Kong
+      year: 2022-2024
     - course: BSc in Computer Science and Technology
       institution: Lanzhou Jiaotong University
       year: 2018-2022
