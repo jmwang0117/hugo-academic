@@ -28,7 +28,7 @@ organizations:
     url: http://www.lzjtu.cn/
 education:
   courses:
-    - course: Master of Philosophy (MPhil)
+    - course: MPhil in Computer Science and Technology
       institution: The University of Hong Kong
       year: 2022-2024
     - course: BSc in Computer Science and Technology
