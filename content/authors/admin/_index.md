@@ -38,6 +38,6 @@ email: jmwang0117@163.com
 superuser: true
 highlight_name: false
 ---
-Junming Wang is a student study at Lanzhou Jiaotong University. His research interests include computer version, mobile computing and Edge computing. 
+Junming Wang is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests include Robotics, Computer Vision, Three-Dimensional Vision, Efficient deep learning and Autonomous Driving.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
