@@ -28,9 +28,9 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-04-01'
     description: |2-
-        Responsibilities include:
-        * Assist data analysts to use SQL to extract key indicators from the sales data of each store, and form a data board.
-        * Use Python to perform data visualization analysis on different types of goods in each store, and write data reports.
+        Topics:
+        * Python/SQL analysis data
+        * Machine Learning
        
         
   - title: Java Development Intern
@@ -39,10 +39,9 @@ experience:
     date_start: '2020-02-01'
     date_end: '2020-04-01'
     description: |2-
-        Responsibilities include:
-        
-        * Responsible for maintaining the warehouse management system, and writing maintenance reports and new functional technical solutions.
-        * Responsible for the reconstruction of the front-end interface of the company's website, assisting front-end engineers to complete system design and coding.
+        Topics:
+        * JavaWeb
+        * Front end and UI
         
         
   - title: Research assistant
@@ -53,10 +52,9 @@ experience:
     date_end: '2021-06-01'
     description: |2-
         Responsibilities include:
-        
-        * Set up a landslide monitoring system to realize the function of "collecting-transmitting-calculating"
-        * Use Spring, SpringMVC, MyBatis to develop data visualization system
-        * Responsible for remote sensing image difference map processing
+        * Sensor Networks
+        * Computer vision
+        * Robots and Intelligent Internet of Things
 design:
   columns: '2'
 ---
