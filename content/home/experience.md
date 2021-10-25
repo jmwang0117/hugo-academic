@@ -29,10 +29,9 @@ experience:
     date_end: '2021-04-01'
     description: |2-
         Responsibilities include:
-        
-        * Assist data analysts to use SQL to extract key indicators from the sales data of each store, and form a data board to support each team in making corresponding business           decisions.
+        * Assist data analysts to use SQL to extract key indicators from the sales data of each store, and form a data board.
         * Use Python to perform data visualization analysis on different types of goods in each store, and write data reports.
-        * Participate in qualitative and quantitative analysis of important indicators in daily sales, and explore commercial realization opportunities in products and sales                 strategies.
+       
         
   - title: Java Development Intern
     company: Hengsheng Electronic Technology Co., Ltd. 
@@ -42,9 +41,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Responsible for maintaining the warehouse management system, in-depth exploration and analysis of business requirements, and writing maintenance reports and new                   functional technical solutions.
+        * Responsible for maintaining the warehouse management system, and writing maintenance reports and new functional technical solutions.
         * Responsible for the reconstruction of the front-end interface of the company's website, assisting front-end engineers to complete system design and coding.
-        * Participate in business needs discussion and review product design.
+        
         
   - title: Research assistant
     company: Professor Huo Jiuyuan's Laboratory
