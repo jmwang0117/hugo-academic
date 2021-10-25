@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://github.com/wjm-lzjtu
 organizations:
-  - name: Lanzhou Jiaotong University
-    url: http://www.lzjtu.cn/
+  - name: The University of Hong kong
+    url: https://www.hku.hk/
 education:
   courses:
     - course: MPhil in Computer Science and Technology
