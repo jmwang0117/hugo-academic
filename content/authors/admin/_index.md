@@ -2,16 +2,14 @@
 title: junming Wang
 role: Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include research in the interdisciplinary field of robotics and computer vision.
 interests:
+  - Computer vision
+  - Robotics
+  - 3D vision
   - Artificial Intelligence
   - Internet of Things
   - Edge computing
-  - Computer vision
-  - Robotics
-  - Machine learning
-  - 3D vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +36,6 @@ email: jmwang0117@163.com
 superuser: true
 highlight_name: false
 ---
-Junming Wang is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests include Robotics, Computer Vision, Three-Dimensional Vision, Efficient deep learning and Autonomous Driving.
+Junming Wang is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests include Robotics, Computer Vision, Three-Dimensional Vision, Efficient deep learning and Autonomous Driving.He lucky enough to be supervised by some remarkable researchers from  [Prof. Jiuyuan Huo](http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
