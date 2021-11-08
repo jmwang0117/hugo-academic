@@ -1,5 +1,5 @@
 ---
-title: junming Wang
+title: Junming Wang
 role: Student
 avatar_filename: avatar.jpg
 bio: My research interests include research in the interdisciplinary field of robotics and computer vision.
