@@ -12,7 +12,7 @@ weight: 130
 title: Contact
 subtitle:
 
-{ {< js_wc >} } 
+{{<custom_js>}} 
 design:
   columns: '2'
 ---
