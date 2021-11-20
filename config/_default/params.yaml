@@ -21,8 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: jmwang0117@163.com
-
-
+marketing:
+  google_analytics: ""
+  google_tag_manager: "G-DGPPJP9RTD"
 
 
 
