@@ -34,10 +34,14 @@ education:
       year: 2018-2022
 email: jmwang0117@163.com
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 Junming Wang(王俊铭) is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests include Robotics, Computer Vision, 3D Vision, Efficient deep learning and Autonomous Driving.</br></br>
 He was lucky enough to be supervised by some remarkable researchers such as : 
 - 2019~2022: LZJTU with [Prof. Jiuyuan Huo](http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and  [Prof. Song Wang](https://dxxy.lzjtu.edu.cn/info/1156/3000.htm)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+**News:**
+
+- <span style="color:red"> Currently I am actively searching for RA or Research Intern position (both onsite and remote). </span> 
