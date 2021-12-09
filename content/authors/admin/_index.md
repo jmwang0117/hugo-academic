@@ -44,4 +44,4 @@ He was lucky enough to be supervised by some remarkable researchers such as :
 
 **News:**
 
-- <span style="color:red"> Currently I am actively searching for RA or Research Intern position (both onsite and remote). </span> 
+- <h4 style="color:red"> Currently I am actively searching for RA or Research Intern position (both onsite and remote). </h4> 
