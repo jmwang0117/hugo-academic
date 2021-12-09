@@ -43,5 +43,4 @@ He was lucky enough to be supervised by some remarkable researchers such as :
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 **News:**
-
-- <h4 style="color:red;font-size:10px"> Currently I am actively searching for RA or Research Intern position (both onsite and remote). </h4> 
+- <p style="color:red;font-size:20px"> Currently I am actively searching for RA or Research Intern position (both onsite and remote). </p> 
