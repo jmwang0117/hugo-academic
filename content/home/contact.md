@@ -16,16 +16,9 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  
+  **People:**
+- <h4 style="font-size:20px">Friends:</h4> 
   
 design:
-  columns: '2'
-  
-**People:**
-- <h4 style="font-size:20px">Friends:</h4> 
-
-  
-  
-  
-  
+  columns: '2'  
 ---
