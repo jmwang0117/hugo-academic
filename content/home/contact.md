@@ -20,4 +20,12 @@ content:
   
 design:
   columns: '2'
+  
+**People:**
+- <h4 style="font-size:20px">Friends:</h4> 
+
+  
+  
+  
+  
 ---
