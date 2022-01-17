@@ -1,6 +1,6 @@
 ---
 title: News
-weight: 129
+weight: 10
 ---
 
 ## Academic Activities and News:
