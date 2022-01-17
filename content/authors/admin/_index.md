@@ -2,7 +2,8 @@
 title: Junming Wang
 role: Student
 avatar_filename: avatar.jpg
-bio: My research interests include research in the interdisciplinary field of robotics and computer vision.
+bio: My research interests include research in the interdisciplinary field of
+  robotics and computer vision.
 interests:
   - Computer vision
   - Robotics
@@ -38,9 +39,9 @@ highlight_name: true
 ---
 Junming Wang(王俊铭) is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests include Robotics, Computer Vision, 3D Vision, Efficient deep learning and Autonomous Driving.</br></br>
 He was lucky enough to be supervised by some remarkable researchers such as : 
-- 2019.01~2022.06: LZJTU with [Prof. Jiuyuan Huo](http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and  [Prof. Song Wang](https://dxxy.lzjtu.edu.cn/info/1156/3000.htm)
+
+* 2019.01~2022.06: LZJTU with [Prof. Jiuyuan Huo](http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and  [Prof. Song Wang](https://dxxy.lzjtu.edu.cn/info/1156/3000.htm)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 **News:**
-- <h4 style="color:red;font-size:20px">Currently I am actively searching for Research Intern position(both onsite and remote). </h4> 
