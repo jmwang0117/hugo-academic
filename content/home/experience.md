@@ -27,10 +27,7 @@ experience:
     location: Zhangye, Gansu
     date_start: '2021-01-01'
     date_end: '2021-04-01'
-    description: |2-
-        Topics:
-        * Python/SQL analysis data
-        * Machine Learning
+  
        
         
   - title: Java Development Intern
@@ -38,10 +35,7 @@ experience:
     location: Zhangye, Gansu
     date_start: '2020-02-01'
     date_end: '2020-04-01'
-    description: |2-
-        Topics:
-        * JavaWeb
-        * Front end and UI
+   
         
         
   - title: Research assistant
@@ -50,11 +44,7 @@ experience:
     location: Lanzhou, Gansu
     date_start: '2019-09-01'
     date_end: '2021-06-01'
-    description: |2-
-        Responsibilities include:
-        * Sensor Networks
-        * Computer vision
-        * Robots and Intelligent Internet of Things
+  
 design:
   columns: '2'
 ---
