@@ -7,6 +7,9 @@ main:
   - name: Bio
     url: '#about'
     weight: 10
+  - name: News
+    url: '#News'
+    weight: 15
   - name: Experience
     url: '#experience'
     weight: 20
