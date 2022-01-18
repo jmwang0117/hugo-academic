@@ -24,9 +24,9 @@ social:
     link: https://github.com/wjm-lzjtu
   - display:
       header: false
-    link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343
+    link: https://www.linkedin.com/in/%E4%BF%8A%E9%93%AD-%E7%8E%8B-3b0973207/
     icon_pack: fab
-    icon: CSDN
+    icon: linkedin
 organizations:
   - name: The University of Hong kong
     url: https://www.hku.hk/
