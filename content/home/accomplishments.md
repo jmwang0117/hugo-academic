@@ -5,7 +5,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
-    date_start: 2019-10-01
+    date_start: 2021-09-01
     description: ""
     organization: China Society for Industrial and Applied Mathematics, China
     organization_url: "http://www.mcm.edu.cn/"
@@ -13,7 +13,7 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: 2020-04-01
+    date_start: 2021-10-01
     description: ""
     organization: Consortium for Mathematics and Its Application, America
     organization_url: "https://www.comap.com/undergraduate/contests/mcm/contests/2020/results/"
@@ -45,7 +45,7 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: 2020-10-01
+    date_start: 2020-06-01
     description: ""
     organization: Ministry of Education, China
     organization_url: ""
@@ -61,20 +61,37 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: 2020-12-01
+    date_start: 2021-12-30
     description: ""
-    organization: Lanzhou jiaotong university, China
+    organization: Gansu province, China
     organization_url: ""
-    title: Li Zhengdao Scholarship (the only undergraduate winner in the school)
+    title: Tsung-Dao Lee Scholarship (Top 1%)
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: 2021-06-01
+    date_start: 2021-11-01
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: Honorary Title of Innovative Person (the only undergraduate winner in the school)
+    title: Honorary Title of Innovative Person (1 university-wide)
     url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2022-01-01
+    description: ""
+    organization:Central Committee of the Communist Youth League, China
+    organization_url: ""
+    title: The Stars of Self-improvement of Chinese College Students Scholarship (Top 1%)
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2021-12-20
+    description: ""
+    organization: Lanzhou jiaotong university, China
+    organization_url: ""
+    title: The Second Prize Scholarship (Top 5%)
+    url: ""
+    
 
 widget_id: accomplishments
 headless: true
