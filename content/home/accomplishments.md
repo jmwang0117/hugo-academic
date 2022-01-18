@@ -79,7 +79,7 @@ item:
     date_end: ""
     date_start: 2022-01-01
     description: ""
-    organization:Central Committee of the Communist Youth League, China
+    organization: Central Committee of the Communist Youth League, China
     organization_url: ""
     title: The Stars of Self-improvement of Chinese College Students Scholarship (Top 1%)
     url: ""
