@@ -25,8 +25,8 @@ social:
   - display:
       header: false
     link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343
-    icon_pack: ai
-    icon: csdn
+    icon_pack: fab
+    icon: CSDN
 organizations:
   - name: The University of Hong kong
     url: https://www.hku.hk/
