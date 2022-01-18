@@ -25,7 +25,7 @@ item:
     description: ""
     organization: Ministry of Education
     organization_url: ""
-    title: innovation creativity entrepreneurship, National Second Prize
+    title: Innovation creativity entrepreneurship, National Second Prize
     url: ""
   - certificate_url: ""
     date_end: ""
