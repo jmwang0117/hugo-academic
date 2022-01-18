@@ -1,6 +1,6 @@
 ---
 title: Junming Wang
-role: Student
+role: Mphil Student
 avatar_filename: avatar.jpg
 bio: My research interests include research in the interdisciplinary field of
   robotics and computer vision.
@@ -22,6 +22,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/wjm-lzjtu
+  - display:
+      header: false
+    link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343
+    icon_pack: ai
+    icon: csdn
 organizations:
   - name: The University of Hong kong
     url: https://www.hku.hk/
