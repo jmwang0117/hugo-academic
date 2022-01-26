@@ -40,6 +40,7 @@ experience:
         
   - title: Research assistant
     company: Professor Huo Jiuyuan's Laboratory
+    company_logo: xiaohui
     company_url: 'http://faculty.lzjtu.edu.cn/huojiuyuan/zh_CN/index.htm'
     location: Lanzhou, Gansu
     date_start: '2019-09-01'
