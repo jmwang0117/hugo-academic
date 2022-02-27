@@ -65,7 +65,7 @@ item:
     description: ""
     organization: Gansu province, China
     organization_url: ""
-    title: Tsung-Dao Lee Scholarship (Top 1%)
+    title: Tsung-Dao Lee Scholarship (￥5000,Top 1%)
     url: ""
   - certificate_url: ""
     date_end: ""
