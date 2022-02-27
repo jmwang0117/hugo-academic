@@ -65,7 +65,7 @@ item:
     description: ""
     organization: Gansu province, China
     organization_url: ""
-    title: Tsung-Dao Lee Scholarship (￥5000,Top 1%)
+    title: Tsung-Dao Lee Scholarship (￥5000 , Top 1%)
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -81,7 +81,7 @@ item:
     description: ""
     organization: Central Committee of the Communist Youth League, China
     organization_url: ""
-    title: The Stars of Self-improvement of Chinese College Students Scholarship (Top 1%)
+    title: The Stars of Self-improvement of Chinese College Students Scholarship (￥2000 , Top 1%)
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -89,7 +89,7 @@ item:
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: The Second Prize Scholarship (Top 5%)
+    title: The Second Prize Scholarship (￥1000 , Top 5%)
     url: ""
     
 
