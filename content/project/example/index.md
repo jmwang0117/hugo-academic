@@ -1,7 +1,7 @@
 ---
 title: example
 url_pdf: ""
-summary: National College Student Innovation and Entrepreneurship Training Project.
+summary: National College Student Innovation and Entrepreneurship Training Project (Rank 1/5, 10000 CNY)
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
 
