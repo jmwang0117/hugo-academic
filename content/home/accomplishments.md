@@ -57,14 +57,7 @@ item:
     description: ""
     organization: China Renewable Energy Society, China
     organization_url: ""
-    title: China Renewable Energy Society College Students Outstanding Science and Technology Works Competition, National Third Prize
-    url: ""
-  - certificate_url: ""
-    date_end: ""
-    date_start: 2021-12-30
-    description: ""
-    organization: Gansu province, China
-    organization_url: ""
+
     title: Tsung-Dao Lee Scholarship (￥5000 , Top 1%)
     url: ""
   - certificate_url: ""
