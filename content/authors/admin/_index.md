@@ -44,7 +44,7 @@ highlight_name: true
 ---
 Junming Wang(王俊铭) is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests mainly focus on the following two aspects:</br>
 - **Robot Perception** - Monocular depth estimation; semantic separation; SLAM/ROS
-- **Edge AI** -Efficient AI on edge devices; Edge Robotics; Knowledge distillation;
+- **Edge AI** -Efficient AI on edge devices; Edge Robotics; Knowledge distillation
 
 He was lucky enough to be supervised by some remarkable researchers such as : 
 
