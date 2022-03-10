@@ -6,7 +6,7 @@ title: '<a href="https://dl.acm.org/doi/10.1145/3438872.3439103" >Application of
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "<b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju"
+- "Junming Wang, Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju"
 #- Robert Ford
 
 # Author notes (optional)
@@ -21,7 +21,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence<b style="font-size:120%;color:#008080">(RICAI 2020)</b>
+publication: Proceedings of the 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence(**RICAI 2020**)
 
 date: "2022-06-01"
 doi: ""
