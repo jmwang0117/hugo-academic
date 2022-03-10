@@ -74,7 +74,7 @@ item:
     description: ""
     organization: Central Committee of the Communist Youth League, China
     organization_url: ""
-    title: The Stars of Self-improvement of Chinese College Students Scholarship (￥2000 , Top 1%)
+    title: The Stars of Self-improvement of Chinese College Students Scholarship </br>(￥2000 , Top 1%)
     url: ""
   - certificate_url: ""
     date_end: ""
