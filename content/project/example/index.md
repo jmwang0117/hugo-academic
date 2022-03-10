@@ -1,7 +1,7 @@
 ---
 title: example
 url_pdf: ""
-summary: National College Student Innovation and Entrepreneurship Training Project (Rank 1/5, 10000 CNY)
+summary: National College Student Innovation and Entrepreneurship Training Project </br> **junming Wang**, junbo Guo, dan Yang, zhilu Zhao, jintao Wei </br>**10000 CNY**
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
 
