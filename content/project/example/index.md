@@ -1,7 +1,7 @@
 ---
 title: example
 url_pdf: ""
-summary: <b style="color:#E08040">National College Student Innovation and Entrepreneurship Training Project</b>**¥ 10000 CNY**</br> *Junming Wang*, Junbo Guo, Dan Yang, Zhilu Zhao, Jintao Wei </br>
+summary: <b style="color:#E08040">National College Student Innovation and Entrepreneurship Training Project</b></br> **Junming Wang**, Junbo Guo, Dan Yang, Zhilu Zhao, Jintao Wei  **(¥ 10000CNY)**</br>
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
 
