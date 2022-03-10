@@ -33,7 +33,7 @@ item:
     description: ""
     organization: Ministry of Education, China
     organization_url: ""
-    title: National College Student Internet of Things Design Competition (Huawei Cup)</br>National Second Prize
+    title: (Huawei Cup) College Student Internet of Things Design Competition </br> National Second Prize
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -41,7 +41,7 @@ item:
     description: ""
     organization: Ministry of Education, China
     organization_url: ""
-    title: National Undergraduate Embedded Artificial Intelligence Design Competition (Bochuang Cup)</br> National Second Prize
+    title: (Bochuang Cup) Embedded Artificial Intelligence Design Competition </br> National Second Prize
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -58,7 +58,7 @@ item:
     organization: China Renewable Energy Society, China
     organization_url: ""
 
-    title: Tsung-Dao Lee Scholarship </br>(￥5000 , Top 1%)
+    title: Tsung-Dao Lee Scholarship </br>￥5000 , Top 1%
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -66,7 +66,7 @@ item:
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: Honorary Title of Innovative Person </br>(1 university-wide)
+    title: Honorary Title of Innovative Person </br>one university-wide
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -74,7 +74,7 @@ item:
     description: ""
     organization: Central Committee of the Communist Youth League, China
     organization_url: ""
-    title: The Stars of Self-improvement of Chinese College Students Scholarship </br>(￥2000 , Top 1%)
+    title: The Stars of Self-improvement of Chinese College Students Scholarship </br>￥2000 , Top 1%
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -82,7 +82,7 @@ item:
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: The Second Prize Scholarship </br>(￥1000 , Top 5%)
+    title: The Second Prize Scholarship </br>￥1000 , Top 5%
     url: ""
     
 
