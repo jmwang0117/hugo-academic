@@ -16,10 +16,16 @@ image:
   focal_point: ""
 url_code: ""
 ---
-
-
-Landslides and other geological disasters can result in large property losses and personal casualties, necessitating long-term intense monitoring of disaster-prone locations. Traditional monitoring systems, on the other hand, are unable to adequately monitor disaster-prone locations at close range. As a result, an independent development of a multi-functional landslide catastrophe warning and monitoring trolley based on the Arduino platform is offered. The multi-functional landslide disaster early warning and monitoring trolley that will be developed and designed in this project is equipped with a Beidou/GPS positioning module that can perform automatic inspection on the designated route; it also incorporates multiple sensor modules to monitor the key elements that may cause geological disasters in designated areas.Equipped with surveillance cameras to collect image data in real time; the monitoring data and real-time images will be sent back to the server through the wireless network module for storage and storage. The data analysis and mining platform is deployed in the server, which will analyze and mine the monitoring data returned regularly, establish a landslide disaster prediction model to predict the development of the disaster situation in the later period, and obtain the current state information of the monitoring area. Managers can view the monitoring data and the prediction results of the disaster prediction model in real time through the mobile APP application. When the prediction model analyzes that geological disasters are about to occur, early warning information will be issued in time through the APP platform, so as to assist decision makers in early preparation and prevention.
-
+This project combines the Internet of Things technology, Beidou positioning technology and SLAM technology to develop a landslide warning and monitoring car with multiple functions. The trolley mainly solves the problems of small blind spots in static monitoring nodes and monitoring failure caused by external factors caused by fixed monitoring nodes. The car integrates various functions such as prediction algorithm, roadblock removal, Beidou positioning, SLAM synchronous positioning and navigation, high-precision sensor monitoring, 360-degree video monitoring without dead angle, and solar charging.
+Project innovation:
+1. Automatic inspection and monitoring area based on SLAM
+Equipped with Beidou/GPS positioning module and SLAM lidar module, it can realize autonomous navigation of the car to reach the designated monitoring position.
+2. Based on Beidou navigation and positioning
+Effectively extract the latitude and longitude information of the area to be detected, and accurately locate the position of the car.
+3. Crawler body structure and 3D printing technology
+In order to cope with the complex terrain environment in the wild, the car adopts crawler wheels, and some special parts of the car body are realized by 3D printing technology.
+4. Integrate machine learning algorithms to realize disaster early warning and prediction
+In the cloud, machine learning algorithms are used to fuse sensor data to achieve early warning and prediction of landslides and other disasters.
 
 
 
