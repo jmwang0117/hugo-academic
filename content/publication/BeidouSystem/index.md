@@ -5,7 +5,7 @@ url_pdf: "https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view
 publication_types:
   - "1"
 authors:
-  - Junming Wang
+  - <b style="">Junming Wang</b>
   - Jiuyuan Huo
   - Lin Mu
   - Hamzah Murad Mohammed Al-Neshmi
