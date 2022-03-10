@@ -24,9 +24,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: ""
+
 url_slides: ""
-publishDate: 
+
 url_poster: ""
 url_code: ""
 ---
