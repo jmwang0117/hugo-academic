@@ -4,12 +4,7 @@ slides: ""
 url_pdf: "https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view?usp=sharing"
 publication_types:
   - "1"
-authors:
-  - <b style="color:#E08040">Junming Wang</b>
-  - Jiuyuan Huo
-  - Lin Mu
-  - Hamzah Murad Mohammed Al-Neshmi
-  - Tao Ju
+authors:  <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju
 
 author_notes: []
 publication: In *RICAI 2020 
