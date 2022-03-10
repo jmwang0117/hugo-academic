@@ -1,7 +1,8 @@
 ---
 title: example
 url_pdf: ""
-summary: <b style="color:#3F51B5">(National Level)-</b><b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> **Junming Wang**, Junbo Guo, Dan Yang, Zhilu Zhao, Jintao Wei  **(¥ 10000CNY)**</br>
+summary: <b style="color:#3F51B5">(National Level)-</b><b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
+         <b style="color:#E08040">Junming Wang,</b> Hamzah Murad Mohammed Al-Neshmi, Dan Yang, Zhilu Zhao, Jintao Wei  **(¥ 10000CNY)**</br>
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
 
