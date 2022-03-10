@@ -1,7 +1,7 @@
 ---
 title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
 authors:
-- admin
+- <mark>admin<mark>
 - Jiuyuan Huo
 - Lin Mu
 - Hamzah Murad Mohammed Al-Neshmi
