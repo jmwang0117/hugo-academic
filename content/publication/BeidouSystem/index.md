@@ -23,7 +23,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 
+date: ""
 url_slides: ""
 publishDate: 
 url_poster: ""
