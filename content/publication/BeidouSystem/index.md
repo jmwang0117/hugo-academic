@@ -4,11 +4,11 @@ slides: ""
 url_pdf: "https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view?usp=sharing"
 publication_types:
   - "1"
-authors: <b style="color:#E08040">Junming Wang</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju
+authors: 
 
 author_notes: []
 publication: In *RICAI 2020 
-summary: <b style="font-size:120%;color:#008080">CVPR 2019</b>
+summary: <b style="color:#E08040">Junming Wang</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju </br><b style="font-size:120%;color:#008080">RICAI 2020</b>
 url_dataset: ""
 url_project: ""
 publication_short: ""
