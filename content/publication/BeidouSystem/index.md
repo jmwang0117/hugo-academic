@@ -13,7 +13,7 @@ authors:
 
 author_notes: []
 publication: In *RICAI 2020 
-summary: "<b style="font-size:120%;color:#008080">CVPR 2019</b>"
+summary: <b style="font-size:120%;color:#008080">CVPR 2019</b>
 url_dataset: ""
 url_project: ""
 publication_short: ""
