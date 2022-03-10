@@ -6,11 +6,11 @@ authors:
 - Michael Felsberg
 - Joost van de Weijer
 
-date: "2014-06-24T00:00:00Z"
-doi: "10.1109/CVPR.2014.143"
+date: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-06-24T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
