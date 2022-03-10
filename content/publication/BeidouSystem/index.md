@@ -8,7 +8,7 @@ authors:
 
 author_notes: []
 publication: 
-summary: <b style="color:#E08040">Junming Wang</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju </br><b style="font-size:120%;color:#008080">RICAI 2020</b>
+summary: <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju </br><b style="font-size:120%;color:#008080">RICAI 2020</b>
 url_dataset: ""
 url_project: ""
 publication_short: ""
