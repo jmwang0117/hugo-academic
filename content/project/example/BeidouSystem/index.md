@@ -1,68 +1,50 @@
 ---
-title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
+title: example
+url_pdf: ""
+summary: <b style="color:#E08040">College Students' Innovative Entrepreneurial Training Plan Program</b></br> **Junming Wang**, Junbo Guo, Dan Yang, Zhilu Zhao, Jintao Wei  **(¥ 10000CNY)**</br>
+url_video: ""
+date: 2016-03-27T00:00:00.000Z
 
-
-date: "2020-10-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence*
-publication_short: In *RICAI 2020*
-
-abstract: "Given the difficulties faced in real-time monitoring of slope deformation and the low degree of automation of the traditional monitoring methods, a BDS/GPS based geological deformation monitoring system was designed. This system uses carrier phase differential technology to achieve BDS/GPS high-precision positioning, transmits data through the NB-IoT wireless network, and transmits slope deformation monitoring data and environmental-based data to a cloud server, achieving automatic and real-time data collection and transmission. In order to study the function and accuracy of the BDS / GPS integrated system in deformation monitoring, experiments are designed to test the stability of the system and collected environmental factors. The feasibility of BDS / GPS in deformation monitoring is analyzed from the constellation distribution and satellite system. The test results show that long-term continuous observation is the prerequisite for obtaining high-precision positioning data. Under the same conditions, the BDS / GPS integrated system's measured accuracy is better than that of the BDS single system."
-
-# Summary. An optional shortened abstract.
-summary: <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju </br> 
-          <b style="font-size:120%;color:#008080">RICAI 2020</b> 
-
-
-
-tags:
-#- Source Themes
-featured: false
-
-links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/1609.06118
-
-url_pdf: 'https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view?usp=sharing'
-#url_code: 'files/ColorTracking_code.zip'
-#url_dataset: '#'
-#url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
-#url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
-#url_slides: ''
-#url_source: '#'
-#url_video: 'https://youtu.be/GKAsIh0o1mM?t=106'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+url_slides: ""
+title: High-precision geological deformation monitoring system based on Beidou
+  satellite
+tags: []
+links: []
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+url_code: ""
 ---
+For many years, our country has been affected by geological disasters. Whether it is the safety of people's lives or the safety of national property, there are great hidden dangers, which mainly include landslides, mudslides, collapses, ground collapses and cracks. Therefore, it is urgent to strengthen the monitoring and prevention of geological disasters. The geological disaster monitoring system developed by this project covers multiple types of monitoring sensors such as GNSS, soil moisture sensors, rain gauges, temperature and humidity sensors, multiple communication systems, wind and solar power supply systems, industrial-grade lightning protection systems and professional deformation monitoring data processing Analysis software, various application client software, etc., can adopt different combinations for different types of monitoring projects to provide users with the most optimized, most reliable, and most effective deformation monitoring system solution.
 
 
+
+
+
+
+
+#### **System Features:**
+
+* Accuracy up to millimeter level
+
+The Beidou satellite navigation and positioning system has the highest certification accuracy in the industry, and the whole system has strong multi-frequency anti-interference ability, which can realize high-precision monitoring of the three-dimensional deformation of the surface of the geological disaster point.
+
+* Support multi-mode communication
+
+It supports multiple communication methods such as GPRS/Beidou short message/4G/LoRa/NB-lot, and the real-time information transmission is strong.
+
+* Ultra-low-power design
+
+Integrated design, low power consumption, support for years of maintenance-free operation, stable performance, easy installation, complete monitoring.
+
+* Remote device management
+
+Really realize the remote interconnection of equipment, remote management of equipment and system upgrades can be realized with the help of the platform, and mobile client login system is also supported , so that data and alarm information can be conveniently and quickly viewed anytime, anywhere
+
+* High system reliability
+
+In response to different disaster forms, the effective selection and matching of sensors, while actively responding to national policies, realize the promotion of universal monitoring equipment, which not only achieves cost control , but also ensures the stability and reliability of the system for a long time.
+
+* Autonomous platform service
+
+The team independently builds a big data platform service architecture, uses cloud services to distribute, process, balance, manage and analyze data in real-time, and uses the web to interact with data, conduct professional model analysis for each monitoring point, and start based on the results of data fusion To the early warning and scheduling role
