@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Color Attributes for Real-Time Visual Tracking"
+title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
 authors:
 - admin
 - Fahad Shahbaz Khan
