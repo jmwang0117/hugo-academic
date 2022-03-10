@@ -1,7 +1,7 @@
 ---
 title: example
 url_pdf: ""
-summary: <b style="color:#3F51B5">(provincial)-</b><b style="color:#E08040">College Students' Innovative Entrepreneurial Training Plan Program</b></br> Junbo Guo, **Junming Wang**, Lin Mu, Liu Meng, Zicheng Wang
+summary: <b style="color:#3F51B5">(provincial)-</b><b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> Junbo Guo, **Junming Wang**, Lin Mu, Liu Meng, Zicheng Wang
           **(¥ 4000CNY)**</br>
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
