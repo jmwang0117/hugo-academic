@@ -6,7 +6,7 @@ authors:
 - Michael Felsberg
 - Joost van de Weijer
 
-date: ""
+date: "2020-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,8 +19,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Computer Vision and Pattern Recognition, CVPR 2014*
-publication_short: In *CVPR 2014*
+publication: In Proceedings of the **2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence**
+publication_short: In *RICAI 2020*
 
 abstract: "Given the difficulties faced in real-time monitoring of slope deformation and the low degree of automation of the traditional monitoring methods, a BDS/GPS based geological deformation monitoring system was designed. This system uses carrier phase differential technology to achieve BDS/GPS high-precision positioning, transmits data through the NB-IoT wireless network, and transmits slope deformation monitoring data and environmental-based data to a cloud server, achieving automatic and real-time data collection and transmission. In order to study the function and accuracy of the BDS / GPS integrated system in deformation monitoring, experiments are designed to test the stability of the system and collected environmental factors. The feasibility of BDS / GPS in deformation monitoring is analyzed from the constellation distribution and satellite system. The test results show that long-term continuous observation is the prerequisite for obtaining high-precision positioning data. Under the same conditions, the BDS / GPS integrated system's measured accuracy is better than that of the BDS single system."
 
