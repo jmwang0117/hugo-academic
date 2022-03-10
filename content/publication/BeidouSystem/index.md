@@ -22,10 +22,7 @@ publication_types: ["1"]
 publication: In *Conference on Computer Vision and Pattern Recognition, CVPR 2014*
 publication_short: In *CVPR 2014*
 
-abstract: "Visual tracking is a challenging problem in computer vision. Most state-of-the-art visual trackers either rely on luminance information or use simple color representations for image description. Contrary to visual tracking, for object recognition and detection, sophisticated color features when combined with luminance have shown to provide excellent performance. Due to the complexity of the tracking problem, the desired color feature should be computationally efficient, and possess a certain amount of photometric invariance while maintaining high discriminative power.
-
-
-This work investigates the contribution of color in a tracking-by-detection framework. Our results suggest that color attributes provides superior performance for visual tracking. We further propose an adaptive low-dimensional variant of color attributes. Both quantitative and attribute-based evaluations are performed on 41 challenging benchmark color sequences. The proposed approach improves the baseline intensity-based tracker by 24 % in median distance precision. Furthermore, we show that our approach outperforms state-of-the-art tracking methods while running at more than 100 frames per second."
+abstract: "Visual tracking is a challenging problem in computer vision. Most state-of-the-art visual trackers either rely on luminance information or use simple color representations for image description. Contrary to visual tracking, for object recognition and detection, sophisticated color features when combined with luminance have shown to provide excellent performance. Due to the complexity of the tracking problem, the desired color feature should be computationally efficient, and possess a certain amount of photometric invariance while maintaining high discriminative power."
 
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">CVPR 2014</b> <b style="font-size:120%;color:#E08040">Oral</b><br> How to incorporate color information into visual tracking.
