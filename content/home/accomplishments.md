@@ -9,7 +9,7 @@ item:
     description: ""
     organization: China Society for Industrial and Applied Mathematics, China
     organization_url: "http://www.mcm.edu.cn/"
-    title: Contemporary Undergraduate Mathematical Contest in Modeling </br> National Second Prize
+    title: Contemporary Undergraduate Mathematical Contest in Modeling </br> <b style="color:#E08040">National Second Prize</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -17,7 +17,7 @@ item:
     description: ""
     organization: Consortium for Mathematics and Its Application, America
     organization_url: "https://www.comap.com/undergraduate/contests/mcm/contests/2020/results/"
-    title: Mathematical Contest in Modeling </br> Meritorious Winner
+    title: Mathematical Contest in Modeling </br>  <b style="color:#E08040">Meritorious Winner</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -25,7 +25,7 @@ item:
     description: ""
     organization: Ministry of Education
     organization_url: ""
-    title: Innovation creativity entrepreneurship</br> National Second Prize
+    title: Innovation creativity entrepreneurship</br> <b style="color:#E08040">National Second Prize</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -33,7 +33,7 @@ item:
     description: ""
     organization: Ministry of Education, China
     organization_url: ""
-    title: (Huawei Cup) College Student Internet of Things Design Competition </br> National Second Prize
+    title: (Huawei Cup) College Student Internet of Things Design Competition </br> <b style="color:#E08040">National Second Prize</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -41,7 +41,7 @@ item:
     description: ""
     organization: Ministry of Education, China
     organization_url: ""
-    title: (Bochuang Cup) Embedded Artificial Intelligence Design Competition </br> National Second Prize
+    title: (Bochuang Cup) Embedded Artificial Intelligence Design Competition </br> <b style="color:#E08040">National Second Prize</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -49,7 +49,7 @@ item:
     description: ""
     organization: Ministry of Education, China
     organization_url: ""
-    title: China Renewable Energy Society College Students Outstanding Science and Technology Works Competition</br>National Third Prize
+    title: China Renewable Energy Society College Students Outstanding Science and Technology Works Competition</br><b style="color:#E08040">National Third Prize</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -58,7 +58,7 @@ item:
     organization: China Renewable Energy Society, China
     organization_url: ""
 
-    title: Tsung-Dao Lee Scholarship </br>￥5000 , Top 1%
+    title: Tsung-Dao Lee Scholarship </br><b style="color:#E08040">￥5000 , Top 1%</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -66,7 +66,7 @@ item:
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: Honorary Title of Innovative Person </br>one university-wide
+    title: Honorary Title of Innovative Person </br> <b style="color:#E08040">one university-wide</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -74,7 +74,7 @@ item:
     description: ""
     organization: Central Committee of the Communist Youth League, China
     organization_url: ""
-    title: The Stars of Self-improvement of Chinese College Students Scholarship </br>￥2000 , Top 1%
+    title: The Stars of Self-improvement of Chinese College Students Scholarship </br><b style="color:#E08040">￥2000 , Top 1%</b>
     url: ""
   - certificate_url: ""
     date_end: ""
@@ -82,7 +82,7 @@ item:
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: The Second Prize Scholarship </br>￥1000 , Top 5%
+    title: The Second Prize Scholarship </br><b style="color:#E08040">￥1000 , Top 5%</b>
     url: ""
     
 
