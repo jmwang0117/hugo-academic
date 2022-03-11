@@ -21,7 +21,7 @@ publication_short: In *EITCE 2022*
 abstract: "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high- frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control core, uses GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. In order to further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3σ) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and elevation directions can be realized; at the same time, the monitoring error of the GNSS combined system is smaller than that of the GPS single system."
 
 # Summary. An optional shortened abstract.
-summary: Jiuyuan Huo, <b style="color:#E08040">Junming Wang,</b> Yi Shi</br> 
+summary: Song Wang, <b style="color:#E08040">Junming Wang,</b> Yi Shi</br> 
          <b style="font-size:120%;color:#008080">[EITCE 2022] </b> 
          <b style="color:#3F51B5"> In the 6th International Conference on Electronic Information Technology and Computer Engineering</b>
 
