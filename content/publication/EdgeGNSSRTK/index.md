@@ -1,5 +1,5 @@
 ---
-title: "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion"
+title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
 
 
 date: "2022-10-01T00:00:00Z"
