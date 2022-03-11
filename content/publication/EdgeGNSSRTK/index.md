@@ -1,12 +1,12 @@
 ---
-title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
+title: "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion"
 
 
-date: "2020-10-01T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,15 +15,15 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence*
-publication_short: In *RICAI 2020*
+publication: In *the 6th International Conference on Electronic Information Technology and Computer Engineering*
+publication_short: In *EITCE 2022*
 
-abstract: "Given the difficulties faced in real-time monitoring of slope deformation and the low degree of automation of the traditional monitoring methods, a BDS/GPS based geological deformation monitoring system was designed. This system uses carrier phase differential technology to achieve BDS/GPS high-precision positioning, transmits data through the NB-IoT wireless network, and transmits slope deformation monitoring data and environmental-based data to a cloud server, achieving automatic and real-time data collection and transmission. In order to study the function and accuracy of the BDS / GPS integrated system in deformation monitoring, experiments are designed to test the stability of the system and collected environmental factors. The feasibility of BDS / GPS in deformation monitoring is analyzed from the constellation distribution and satellite system. The test results show that long-term continuous observation is the prerequisite for obtaining high-precision positioning data. Under the same conditions, the BDS / GPS integrated system's measured accuracy is better than that of the BDS single system."
+abstract: "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high- frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control core, uses GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. In order to further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3σ) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and elevation directions can be realized; at the same time, the monitoring error of the GNSS combined system is smaller than that of the GPS single system."
 
 # Summary. An optional shortened abstract.
-summary: <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju </br> 
-         <b style="font-size:120%;color:#008080">[RICAI 2020] </b> 
-         <b style="color:#3F51B5"> In Proceedings of the 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence</b>
+summary: Jiuyuan Huo, <b style="color:#E08040">Junming Wang,</b> Yi Shi</br> 
+         <b style="font-size:120%;color:#008080">[EITCE 2022] </b> 
+         <b style="color:#3F51B5"> In the 6th International Conference on Electronic Information Technology and Computer Engineering</b>
 
 
 
@@ -35,7 +35,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-url_pdf: 'https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/1nWxKlwMPxfhYraqYL8S2XqC-qZ2uiIXh/view?usp=sharing'
 #url_code: 'files/ColorTracking_code.zip'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
