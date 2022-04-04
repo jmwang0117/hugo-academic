@@ -16,15 +16,15 @@ social:
     icon_pack: fas
     link: /#contact
     label: jmwang0117@163.com
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/wjm-lzjtu
   - display:
       header: false
-    link: https://www.linkedin.com/in/%E4%BF%8A%E9%93%AD-%E7%8E%8B-3b0973207/
+    link: https://www.linkedin.com/in/junming-wang-3b0973207/
     icon_pack: fab
     icon: linkedin
 organizations:
