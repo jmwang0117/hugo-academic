@@ -42,7 +42,8 @@ email: jmwang0117@163.com
 superuser: true
 highlight_name: true
 ---
-**Junming Wang(王俊铭)** is an M.Phil. student under the supervision of  [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). His research interests mainly focus on the following two aspects:</br>
+**Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). 
+His research interests mainly focus on the following two aspects:</br>
 - **Robot Perception** - Monocular Depth Estimation; semantic separation; SLAM
 - **Edge AI** - Efficient AI on Edge Devices; Knowledge Distillation; Transfer Learning
 
