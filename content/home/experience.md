@@ -33,6 +33,7 @@ experience:
         
   - title: Java Intern - *Technology Group*
     company: Hengsheng Electronic Technology Co., Ltd. 
+    company_logo: p3
     location: Zhangye, Gansu
     date_start: '2020-02-01'
     date_end: '2020-04-01'
