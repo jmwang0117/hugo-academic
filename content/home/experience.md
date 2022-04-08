@@ -40,7 +40,7 @@ experience:
         
   - title: Research Assistant
     company: Professor Huo Jiuyuan's Laboratory
-    images: "xiaohui.png"
+    company_logo: xiaohui
     location: Lanzhou, Gansu
     date_start: '2019-09-01'
     date_end: '2021-06-01'
