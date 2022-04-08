@@ -24,6 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Analysis Intern
     company: Jiabao Trading Co., Ltd.
+    company_logo: p2
     location: Zhangye, Gansu
     date_start: '2021-01-01'
     date_end: '2021-04-01'
