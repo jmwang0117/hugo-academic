@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Python Intern - *Data Analysis Group*
+  - title: **Python Intern** - *Data Analysis Group*
     company: Jiabao Trading Co., Ltd.
     company_logo: p2
     location: Zhangye, Gansu
@@ -31,7 +31,7 @@ experience:
   
        
         
-  - title: Java Intern - *Technology Group*
+  - title: **Java Intern** - *Technology Group*
     company: Hengsheng Electronic Technology Co., Ltd. 
     company_logo: p3
     location: Zhangye, Gansu
@@ -40,7 +40,7 @@ experience:
    
         
         
-  - title: Research Assistant
+  - title: **Research Assistant**
     company: Professor Huo Jiuyuan's Laboratory
     company_logo: p1
     location: Lanzhou, Gansu
