@@ -55,9 +55,8 @@ item:
     date_end: ""
     date_start: 2021-10-20
     description: ""
-    organization: China Renewable Energy Society, China
+    organization: Gansu Province
     organization_url: ""
-
     title: Tsung-Dao Lee Scholarship </br><b style="color:#E08040">￥5000 , Top 1%</b>
     url: ""
   - certificate_url: ""
