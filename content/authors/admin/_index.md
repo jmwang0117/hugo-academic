@@ -17,8 +17,8 @@ social:
     link: /#contact
     label: jmwang0117@163.com
     
-  - icon: cabin
-    icon_pack: fab
+  - icon: csdn
+    icon_pack: csdn
     link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343
     
   - icon: google-scholar
