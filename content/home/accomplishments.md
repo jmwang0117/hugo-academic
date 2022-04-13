@@ -53,7 +53,7 @@ item:
     url: ""
   - certificate_url: ""
     date_end: ""
-    date_start: 2020-12-01
+    date_start: 2021-10-20
     description: ""
     organization: China Renewable Energy Society, China
     organization_url: ""
