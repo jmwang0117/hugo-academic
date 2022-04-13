@@ -16,10 +16,10 @@ social:
     icon_pack: fas
     link: /#contact
     label: jmwang0117@163.com
-  - icon: C
+  - icon: c
     icon_pack: fab
     link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343
-    label: jmwang0117@163.com
+    
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN
