@@ -25,7 +25,7 @@ item:
     description: ""
     organization: Ministry of Education
     organization_url: ""
-    title: Innovation creativity entrepreneurship</br> <b style="color:#E08040">National Second Prize</b>
+    title: E-commerce (Innovation & creativity & entrepreneurship)</br> <b style="color:#E08040">National Second Prize</b>
     url: ""
   - certificate_url: ""
     date_end: ""
