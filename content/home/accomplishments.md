@@ -66,7 +66,7 @@ item:
     description: ""
     organization: Lanzhou jiaotong university, China
     organization_url: ""
-    title: Honorary Title of Innovative Person </br> <b style="color:#E08040">one university-wide</b>
+    title: Individual Scholarship </br> <b style="color:#E08040">￥15000 , (2019 & 2020)</b>
     url: ""
   - certificate_url: ""
     date_end: ""
