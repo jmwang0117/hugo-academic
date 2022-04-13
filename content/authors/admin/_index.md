@@ -18,7 +18,7 @@ social:
     label: jmwang0117@163.com
     
   - icon: fa-c
-    icon_pack: fa-solid
+    icon_pack: fab
     link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343
     
   - icon: google-scholar
