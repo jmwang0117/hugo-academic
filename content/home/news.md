@@ -6,9 +6,10 @@ weight: 25
 
 ## Academic Activities and News:
 - **(2022/01/17)** <span style="color: red">Currently I am actively searching for RA or Research Intern position (both onsite and remote)</span>
-- **(2020/07/31)** A patent for invention is issued (CN111476813A)
-- **(2020/05/01)** A Patent for Utility Model is granted (CN212084334U)
-- **(2020/03/01)** One paper was accepted by RICAI2020
+- **(2021/06/13)** Won the "<a src="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person</a>" (**only one person in the whole school**)
+- **(2020/07/31)** A patent for invention is issued (**CN111476813A**)
+- **(2020/05/01)** A Patent for Utility Model is granted (**CN212084334U**)
+- **(2020/03/01)** One paper was accepted by **RICAI2020**
 - **(2020/02/01)** One paper was accepted by the Microcontrollers & Embedded Systems(Chinese Journal)
 
 
