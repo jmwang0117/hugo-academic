@@ -12,8 +12,8 @@ weight: 135
 
 - *The University of Hong Kong* **(HKU):**
   <ul>
-          <li><a href="https://shengliangd.github.io/about/"> Shengliang Deng [PhD Student];</a></li>
-          <li><a href="https://guanxiux.github.io/selfie/"> Xiuxian Guan [PhD Student];</a></li>
+          <li><a href="https://shengliangd.github.io/about/"> Shengliang Deng [PhD Student]</a></li>
+          <li><a href="https://guanxiux.github.io/selfie/"> Xiuxian Guan [PhD Student]</a></li>
           <li> <a href="#"> Zekai Sun [PhD Student]</a> </li>
   </ul>
                                       
