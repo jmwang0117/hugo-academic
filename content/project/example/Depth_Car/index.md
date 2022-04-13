@@ -1,13 +1,13 @@
 ---
 title: example
 url_pdf: ""
-summary: <b style="color:#3F51B5">(provincial)-</b><b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
-        Junbo Guo, <b style="color:#E08040">Junming Wang,</b> Lin Mu, Liu Meng, Zicheng Wang  </br>**(¥ 4000CNY)**
+summary: <b style="color:#3F51B5">(LZJTU)-</b><b style="color:#008080">Undergraduate graduation project</b></br> 
+         <b style="color:#E08040">Junming Wang,</b> **Tutor:** *Prof.Song Wang* **and** *Prof.Heming Cui*</br>
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
 
 url_slides: ""
-title: Multifunctional intelligent landslide disaster early warning and monitoring vehicle based on SLAM
+title: Design of Obstacle Avoidance Robot Based on Laser SLAM and Monocular Depth Estimation
   satellite
 tags: []
 links: []
@@ -16,16 +16,8 @@ image:
   focal_point: ""
 url_code: ""
 ---
-This project combines the Internet of Things technology, Beidou positioning technology and SLAM technology to develop a landslide warning and monitoring car with multiple functions. The trolley mainly solves the problems of small blind spots in static monitoring nodes and monitoring failure caused by external factors caused by fixed monitoring nodes. The car integrates various functions such as prediction algorithm, roadblock removal, Beidou positioning, SLAM synchronous positioning and navigation, high-precision sensor monitoring, 360-degree video monitoring without dead angle, and solar charging.
-Project innovation:
-1. Automatic inspection and monitoring area based on SLAM
-Equipped with Beidou/GPS positioning module and SLAM lidar module, it can realize autonomous navigation of the car to reach the designated monitoring position.
-2. Based on Beidou navigation and positioning
-Effectively extract the latitude and longitude information of the area to be detected, and accurately locate the position of the car.
-3. Crawler body structure and 3D printing technology
-In order to cope with the complex terrain environment in the wild, the car adopts crawler wheels, and some special parts of the car body are realized by 3D printing technology.
-4. Integrate machine learning algorithms to realize disaster early warning and prediction
-In the cloud, machine learning algorithms are used to fuse sensor data to achieve early warning and prediction of landslides and other disasters.
+Mobile robots use two core technologies: SLAM (Simultaneous Localization and Mapping) and path planning. Computer vision has advanced rapidly in recent years, with significant achievements in a variety of fields. Laser SLAM has attracted the attention of a growing number of researchers due to its application in the field of robotics. There are still a lot of issues with visual mapping and obstacle avoidance in mobile robots today. As a result, this topic aims to investigate mobile robot laser SLAM and dynamic obstacle avoidance technology, as well as develop a mobile robot capable of autonomous navigation and obstacle avoidance. Monocular depth estimation (MDE), on the other hand, predicts pixel-level depth from a single image and is critical in image sensing. Because of the use of deep neural networks, MDE has come a long way (DNNs). However, due to their high computational complexity, current MDE methods are often slow for inference on embedded devices. As a result, this topic also i nvestigates and discusses the deployment and application of the monocular depth estimation model in embedded devices, and finally realizes the laser SLAM obstacle avoidance and monocular depth estimation obstacle avoidance of mobile robots, based on the application effect in the real world. This topic is very useful for research on autonomous navigation and obstacle avoidance of mobile robots because it compares and analyzes the advantages and disadvantages of the two methods.
+<img src="tb_image1.jpg" />
 
 
 
