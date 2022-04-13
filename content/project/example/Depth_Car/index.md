@@ -2,7 +2,7 @@
 title: example
 url_pdf: ""
 summary: <b style="color:#3F51B5">(LZJTU)-</b><b style="color:#008080">Undergraduate graduation project</b></br> 
-         <b style="color:#E08040">Junming Wang,</b> **Tutor:** Prof.Song Wang **and** Prof.Heming Cui</br>
+         <b style="color:#E08040">Junming Wang </b> **Tutor:** Prof.Song Wang **and** Prof.Heming Cui</br>
 url_video: ""
 date: 2016-03-27T00:00:00.000Z
 
