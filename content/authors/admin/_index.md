@@ -27,7 +27,7 @@ social:
     
   - icon: github
     icon_pack: fab
-    link: https://github.com/wjm-lzjtu
+    link: https://github.com/jmwang0117
     
   - display:
       header: false
