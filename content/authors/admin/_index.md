@@ -51,7 +51,7 @@ superuser: true
 highlight_name: true
 ---
 **Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). </br>
-His research interests mainly focus on the Efficient Deep Learning and its applications in *Edge Device* and *robotics*.For example, the following two aspects:</br>
+His research interests mainly focus on the Efficient Deep Learning and its applications in *Edge Device* and *Robotics*.For example, the following two aspects:</br>
 - **Robot Perception** - Monocular Depth Estimation; Semantic Separation; SLAM
 - **Edge AI** - Efficient AI on Edge Devices; Edge Video Analytics; Knowledge Distillation;
 
