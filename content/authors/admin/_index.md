@@ -53,8 +53,8 @@ highlight_name: true
 **Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). Junming Wang received his B.Eng degree with first class honors from Lanzhou Jiaotong University (LZJTU), China in 2022.</br>
 
 His research interests mainly focus on the **Efficient Deep Learning** and its applications in Systems and Robotics.For example, the following two aspects:</br>
-- **Robot Perception** - Monocular Depth Estimation; SLAM/Point Cloud; Semantic Separation
-- **Edge AI** - TinyML; AutoML/NAS; Edge Video Analytics
+- **Robot Perception** - Monocular Depth Estimation; SLAM/Point Cloud; 
+- **Edge AI** - Edge computing; AutoML/NAS; Edge Video Analytics
 
 He was lucky enough to be supervised by some remarkable researchers such as : 
 
