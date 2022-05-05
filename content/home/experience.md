@@ -27,8 +27,8 @@ experience:
     company: Chinese Academy of Sciences Institute of Automation.
     company_logo: p4
     location: Beijing, China
-    date_start: '2022-06-01'
-    date_end: '2022-09-01'
+    date_start: '2022-01-01'
+    date_end: '2022-06-01'
 
 
   - title: Python Intern - *Data Analysis Group*
