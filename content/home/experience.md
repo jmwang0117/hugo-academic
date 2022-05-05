@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Research Intern - *Center for Research on Intelligent Perception and Computing*
+    company: Chinese Academy of Sciences Institute of Automation.
+    company_logo: p4
+    location: Beijing, China
+    date_start: '2022-06-01'
+    date_end: '2022-09-01'
+
+
   - title: Python Intern - *Data Analysis Group*
     company: Jiabao Trading Co., Ltd.
     company_logo: p2
