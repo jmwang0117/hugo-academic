@@ -60,8 +60,7 @@ He was lucky enough to be supervised by some remarkable researchers such as :
 
 * <b style="color:#E08040; font-size:19px">**Chinese Academy of Sciences Institute of Automation**</b><b style="color:#008080; font-size:19px">(CASIA)</b>
   <b style="font-size:19px">
-      **with:** [Prof. Chi Zhang](https://www.cas-air.cn/a/jigougaikuang/hexintuandui/2019/0124/85.html) **and** [Prof. Zhaoxiang Zhang]
-      (https://people.ucas.ac.cn/~zhangzhaoxiang)
+      **with:** [Prof. Chi Zhang](https://www.cas-air.cn/a/jigougaikuang/hexintuandui/2019/0124/85.html) **and** [Prof. Zhaoxiang Zhang]     (https://people.ucas.ac.cn/~zhangzhaoxiang)
   </b>
 
 * <b style="color:#E08040; font-size:19px">**Lanzhou Jiaotong University**</b><b style="color:#008080; font-size:19px">(LZJTU)</b>
