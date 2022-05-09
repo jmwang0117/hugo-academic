@@ -58,13 +58,13 @@ His research interests mainly focus on the **Efficient Deep Learning** and its a
 
 He was lucky enough to be supervised by some remarkable researchers such as : 
 
-* <b style="color:#E08040; font-size:16px">**University of Chinese Academy of Sciences**</b><b style="color:#008080; font-size:16px">(CASIA)</b>
-  <b style="font-size:16px">
+* <b style="color:#E08040; font-size:17px">**University of Chinese Academy of Sciences**</b><b style="color:#008080; font-size:17px">(CASIA)</b>
+  <b style="font-size:17px">
       **with:** [Prof. Chi Zhang](https://www.cas-air.cn/a/jigougaikuang/hexintuandui/2019/0124/85.html) **and** [Prof. Zhaoxiang Zhang](https://people.ucas.ac.cn/~zhangzhaoxiang)
   </b>
 
-* <b style="color:#E08040; font-size:16px">**Lanzhou Jiaotong University**</b><b style="color:#008080; font-size:16px">(LZJTU)</b>
-  <b style="font-size:16px">
+* <b style="color:#E08040; font-size:17px">**Lanzhou Jiaotong University**</b><b style="color:#008080; font-size:17px">(LZJTU)</b>
+  <b style="font-size:17px">
       **with:** [Prof. Jiuyuan Huo](http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) **and**  [Prof. Song Wang](https://dxxy.lzjtu.edu.cn/info/1156/3000.htm)
   </b>
   
