@@ -34,7 +34,7 @@ experience:
   - title: Python Intern - *Data Analysis Group*
     company: Jiabao Trading Co., Ltd.
     company_logo: p2
-    location: Zhangye, Gansu
+    location: Zhangye, China
     date_start: '2021-01-01'
     date_end: '2021-04-01'
   
@@ -43,7 +43,7 @@ experience:
   - title: Java Intern - *Technology Group*
     company: Hengsheng Electronic Technology Co., Ltd. 
     company_logo: p3
-    location: Zhangye, Gansu
+    location: Zhangye, China
     date_start: '2020-02-01'
     date_end: '2020-04-01'
    
@@ -52,7 +52,7 @@ experience:
   - title: Research Assistant
     company: Professor Huo Jiuyuan's Laboratory
     company_logo: p1
-    location: Lanzhou, Gansu
+    location: Lanzhou, China
     date_start: '2019-09-01'
     date_end: '2021-06-01'
   
