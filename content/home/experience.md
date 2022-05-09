@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
   - title: Research Intern - *Center for Research on Intelligent Perception and Computing*
-    company: Chinese Academy of Sciences Institute of Automation.
+    company: Chinese Academy of Sciences Institute of Automation
     company_url: 'https://zhaoxiangzhang.net/'
     company_logo: p4
     location: Beijing, China
