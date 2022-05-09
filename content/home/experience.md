@@ -38,6 +38,7 @@ experience:
     location: Zhangye, China
     date_start: '2021-01-01'
     date_end: '2021-04-01'
+    description: - **Time Series Forecasting** and **Data Visualization**
   
        
         
