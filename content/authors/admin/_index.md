@@ -58,7 +58,7 @@ His research interests mainly focus on the **Efficient Deep Learning** and its a
 
 He was lucky enough to be supervised by some remarkable researchers such as : 
 
-* <b style="color:#E08040; font-size:19px">**Chinese Academy of Sciences Institute of Automation**</b><b style="color:#008080; font-size:19px">(CASIA)</b>
+* <b style="color:#E08040; font-size:19px">**University of Chinese Academy of Sciences**</b><b style="color:#008080; font-size:19px">(CASIA)</b>
   <b style="font-size:19px">
       **with:** [Prof. Chi Zhang](https://www.cas-air.cn/a/jigougaikuang/hexintuandui/2019/0124/85.html) **and** [Prof. Zhaoxiang Zhang](https://people.ucas.ac.cn/~zhangzhaoxiang)
   </b>
