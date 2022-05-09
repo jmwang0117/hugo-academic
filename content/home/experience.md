@@ -25,6 +25,7 @@ experience:
 
   - title: Research Intern - *Center for Research on Intelligent Perception and Computing*
     company: Chinese Academy of Sciences Institute of Automation.
+    company_url: 'https://zhaoxiangzhang.net/'
     company_logo: p4
     location: Beijing, China
     date_start: '2022-01-01'
@@ -51,6 +52,7 @@ experience:
         
   - title: Research Assistant
     company: Professor Huo Jiuyuan's Laboratory
+    company_url: 'https://www.lzjtu.cn/'
     company_logo: p1
     location: Lanzhou, China
     date_start: '2019-09-01'
