@@ -30,6 +30,9 @@ experience:
     location: Beijing, China
     date_start: '2022-01-01'
     date_end: '2022-06-01'
+    description: |2-
+      Topic : **Robot Vision**
+    
 
 
   - title: Python Intern - *Data Analysis Group*
@@ -50,6 +53,10 @@ experience:
     location: Zhangye, China
     date_start: '2020-02-01'
     date_end: '2020-04-01'
+    description: |2-
+        Technology stack :     
+        * Front-end : HTML5, CSS3, JavaScript, Bootstrap3
+        * Backend : Spring, SpringMVC, Mybatis
    
         
         
