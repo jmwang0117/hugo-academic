@@ -57,10 +57,11 @@ experience:
     location: Lanzhou, China
     date_start: '2019-09-01'
     date_end: '2021-06-01'
-    description: Topic: |2-
-    **Edge Computing** & **AIoT** & **SAR Image Processing**
-    - Published two EI conference papers and three Chinese journal papers
-    - Obtained two patents
+    description:|2-
+        Topic:**Edge Computing** & **AIoT** & **SAR Image Processing**        
+        * Published two EI conference papers and three Chinese journal papers
+        * Obtained two patents
+
   
 design:
   columns: '2'
