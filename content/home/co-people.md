@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 225
+weight: 150
 
 title: Supervisors and Collaborators
 subtitle:
