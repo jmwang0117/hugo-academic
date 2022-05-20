@@ -22,7 +22,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 60
-    - name: People
+  - name: People
     url: '#co-people'
     weight: 70
 
