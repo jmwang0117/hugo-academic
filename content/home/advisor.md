@@ -11,7 +11,7 @@ weight: 25
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  user_groups: ["Co-supervised PhD Students"]
+  user_groups: ["Supervisors"]
 
 # [content]
   # Choose which groups/teams of users to display.
