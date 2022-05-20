@@ -8,15 +8,20 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 225
 
 title: Supervisors and Collaborators
 subtitle:
 
 
 content:
-  # Page type to display. E.g. post, talk, publication...
-  user_groups: ["Supervisors"]
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Supervisors
+    - Collaborators
+    - My Girlfriend
+
 
 # [content]
   # Choose which groups/teams of users to display.
