@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor, Chinese Academy of Sciences(IA)
+role: Professor, CASIA
 
 # Organizations/Affiliations
 #organizations:
