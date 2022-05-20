@@ -61,20 +61,9 @@ user_groups:
 His research interests mainly focus on the **Efficient Deep Learning** and its applications in **Systems** and **Robotics**.For example, the following two aspects:</br>
 - **Robot Perception** - Monocular Depth Estimation; SLAM/Point Cloud
 - **Systems** - Edge computing; AutoML/NAS; Distributed Robotic Learning
-- 
 
-# He was lucky enough to be supervised by some remarkable researchers such as : 
 
-# * <b style="color:#E08040; font-size:17px">**University of Chinese Academy of Sciences**</b><b style="color:#008080; font-size:17px">(CASIA)</b>
-# <b style="font-size:17px">
-      **with:** [Prof. Chi Zhang](http://cripac.ia.ac.cn/en/EN/column/item136.shtml) **and** [Prof. Zhaoxiang Zhang](https://people.ucas.ac.cn/~zhangzhaoxiang?# # language=en)
-  </b>
 
-# * <b style="color:#E08040; font-size:17px">**Lanzhou Jiaotong University**</b><b style="color:#008080; font-size:17px">(LZJTU)</b>
-#  <b style="font-size:17px">
-      **with:** [Prof. Jiuyuan Huo](http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) **and**  [Prof. Song Wang](https://dxxy.lzjtu.edu.cn/info/1156/3000.htm)
-  </b>
-  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
