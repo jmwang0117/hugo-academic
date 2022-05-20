@@ -6,8 +6,9 @@ widget: advisor
 # This file represents a page section.
 headless: true
 active: true
-title: Supervisors and Collaborators
 weight: 25
+title: Supervisors and Collaborators
+
 
 content:
   # Page type to display. E.g. post, talk, publication...
