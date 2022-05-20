@@ -8,9 +8,9 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 225
+weight: 25
 
-title: Supervisors and Collaborators
+title: People
 subtitle:
 
 
@@ -20,7 +20,7 @@ content:
   user_groups:
     - Supervisors
     - Collaborators
-    - My Girlfriend
+    
 
 
 # [content]
