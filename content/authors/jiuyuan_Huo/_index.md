@@ -13,9 +13,9 @@ superuser: false
 role: Professor, LZJTU
 
 # Organizations/Affiliations
-organizations:
-- name: CVL, ETH Zurich
-  url: "https://vision.ee.ethz.ch/"
+#organizations:
+#- name: CVL, ETH Zurich
+#  url: "https://vision.ee.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -64,4 +64,4 @@ user_groups:
 - "Supervisors and Collaborators"
 ---
 
-<b style="font-size:200%">Go to [Andreas's twitter](https://twitter.com/andreaslugmayr)</b>
+
