@@ -10,13 +10,13 @@ active: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Co-supervised PhD Students
+title: Supervisors and Collaborators
 subtitle:
 
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  user_groups: ["Co-supervised PhD Students"]
+  user_groups: ["Supervisors"]
 
 # [content]
   # Choose which groups/teams of users to display.
