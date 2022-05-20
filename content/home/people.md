@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 39
 
 title: People
 subtitle:
