@@ -49,6 +49,12 @@ education:
 email: jmwang0117@163.com
 superuser: true
 highlight_name: true
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+
 ---
 **Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). Junming Wang received his B.Eng degree with first class honors from Lanzhou Jiaotong University (LZJTU), China in 2022.</br>
 
