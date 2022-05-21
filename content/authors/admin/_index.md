@@ -63,7 +63,7 @@ user_groups:
 
 His research interests mainly focus on the **Efficient Deep Learning** and its applications in **Systems** and **Robotics**.For example, the following two aspects:</br>
 - **Robot Perception** - Monocular Depth Estimation; SLAM/Point Cloud
-- **Systems** - Edge computing; AutoML/NAS; Distributed Robotic Learning
+- **Systems** - Multi-Robot Systems; Distributed Robotic Learning;Edge computing
 
 
 
