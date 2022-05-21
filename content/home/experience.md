@@ -23,6 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+
+  - title: Research Intern - *Oxford Machine Learning Summer School*
+    company: AI for Global Goals & The University of Oxford
+    company_url: 'https://www.oxfordml.school/'
+    company_logo: p5
+    location: St Catherine's College, Oxford-UK 
+    date_start: '2022-08-11'
+    date_end: '2022-08-14'
+    description: |2-
+      - ML Fundamentals
+      - ML x Finance
+      
+      
   - title: Research Intern - *Center for Research on Intelligent Perception and Computing*
     company: Chinese Academy of Sciences Institute of Automation
     company_url: 'https://zhaoxiangzhang.net/'
