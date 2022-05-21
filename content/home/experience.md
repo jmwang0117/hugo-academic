@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
 
-  - title: Research Intern - *Oxford Machine Learning Summer School*
+  - title: Summer Student - *Oxford Machine Learning Summer School(2022)*
     company: AI for Global Goals & The University of Oxford
     company_url: 'https://www.oxfordml.school/'
     company_logo: p5
