@@ -40,12 +40,15 @@ organizations:
     url: https://www.hku.hk/
 education:
   courses:
-    - course: MPhil in Computer Science and Technology
+    - course: MPhil in Computer Science
       institution: The University of Hong Kong
-      year: 2022-2024
-    - course: BSc in Computer Science and Technology
+      year: 2022.09-2024.06
+    - course: BEng in Computer Science and Technology
       institution: Lanzhou Jiaotong University
-      year: 2018-2022
+      year: 2018.09-2022.06
+    - course: Oxford Machine Learning Summer School
+      institution: The University of Oxford
+      year: 2022.08
 email: jmwang0117@163.com
 superuser: true
 highlight_name: true
