@@ -40,7 +40,7 @@ organizations:
     url: https://www.hku.hk/
 education:
   courses:
-    - course: MPhil in Computer Science</br>
+    - course: MPhil in Computer Science and Technology
       institution: The University of Hong Kong
       year: 2022.09-2024.06
     - course: BEng in Computer Science and Technology
