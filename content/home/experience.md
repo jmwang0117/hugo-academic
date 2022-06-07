@@ -36,15 +36,7 @@ experience:
       - ML x Finance
       
       
-  - title: Research Intern - *Center for Research on Intelligent Perception and Computing*
-    company: Chinese Academy of Sciences Institute of Automation
-    company_url: 'https://zhaoxiangzhang.net/'
-    company_logo: p4
-    location: Beijing, China
-    date_start: '2022-01-01'
-    date_end: '2022-06-01'
-    description: |2-
-      Topic : **Robot Vision**
+
     
 
 
