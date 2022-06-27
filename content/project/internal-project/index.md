@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: 🤖 SLAM Robotics
+summary: SLAM-based intelligent landslide disaster emergency alert robot.
 tags:
-- Deep Learning
+- Robotics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
