@@ -11,9 +11,7 @@ weight: 41
 
 title: Projects
 subtitle: ''
-.btn-toolbar {
-    justify-content: center;
-}
+
 content:
   # Page type to display. E.g. project.
   page_type: project
