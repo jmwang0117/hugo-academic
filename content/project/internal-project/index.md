@@ -8,20 +8,14 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+
 ---
- <b style="color:#3F51B5">(provincial)-</b><b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
-        Junbo Guo, <b style="color:#E08040">Junming Wang,</b> Lin Mu, Liu Meng, Zicheng Wang  </br>**(¥ 4000CNY)**
+ <b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
+ Junbo Guo, <b style="color:#E08040">Junming Wang,</b> Lin Mu, Liu Meng, Zicheng Wang  </br>
+ **(<b style="color:#3F51B5">(provincial)-</b> ¥ 4000CNY)**</br>
+ 
 This project combines the Internet of Things technology, Beidou positioning technology and SLAM technology to develop a landslide warning and monitoring car with multiple functions. The trolley mainly solves the problems of small blind spots in static monitoring nodes and monitoring failure caused by external factors caused by fixed monitoring nodes. The car integrates various functions such as prediction algorithm, roadblock removal, Beidou positioning, SLAM synchronous positioning and navigation, high-precision sensor monitoring, 360-degree video monitoring without dead angle, and solar charging.
 Project innovation:
 1. Automatic inspection and monitoring area based on SLAM
