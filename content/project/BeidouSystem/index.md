@@ -1,5 +1,5 @@
 ---
-title: 📊 Disaster Monitoring
+title: Disaster Monitoring
 
 summary: High-precision geological deformation monitoring system based on Beidou.
 tags:
