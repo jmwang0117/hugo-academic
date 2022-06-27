@@ -24,6 +24,6 @@ content:
       tag: current
 design:
   columns: '1'
-  view: masonry
+  view: 2
   flip_alt_rows: false
 ---
