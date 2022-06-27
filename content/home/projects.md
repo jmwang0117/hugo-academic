@@ -31,6 +31,12 @@ content:
     tag: Edge Computing
   - name: Robotics
     tag: Robotics
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: Computer Graphics
+    tag: Computer Graphics
+    
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
