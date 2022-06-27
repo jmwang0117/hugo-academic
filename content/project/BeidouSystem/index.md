@@ -1,8 +1,8 @@
 ---
-title: 🤖 SLAM Robotics
-summary: SLAM-based intelligent landslide disaster emergency alert robot.
+title: 📊 Landslide Monitoring
+summary: Beidou-based high-precision geological deformation monitoring system.
 tags:
-- Robotics
+- Edge Computing
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
