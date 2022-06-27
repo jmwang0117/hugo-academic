@@ -47,7 +47,7 @@ education:
       institution: Lanzhou Jiaotong University
       year: 2018.09-2022.06
     - course: Oxford Machine Learning Summer School
-      institution: The University of Oxford
+      institution: AI for Global Goals & The University of Oxford
       year: 2022.06-2022.08
 email: jmwang0117@163.com
 superuser: true
