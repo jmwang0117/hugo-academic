@@ -43,7 +43,7 @@ design:
   columns: '1'
 
   background: {}
-  spacing: {padding: [  0,  0,  0,  0,  0]}
+  
 
   # Toggle between the various page layout types.
   #   1 = List
