@@ -10,6 +10,7 @@ weight: 25
 - **(2020/07/31)** A patent for invention is issued (**CN111476813A**)
 - **(2020/05/01)** A Patent for Utility Model is granted (**CN212084334U**)
 - **(2020/03/01)** One paper was accepted by **RICAI2020**
+- **(2020/02/20)** One paper was accepted by the <a href="[https://navi.cnki.net/knavi/journals/DPJY/detail](https://navi.cnki.net/knavi/journals/LZKQ/detail)">Scientific & Technical Information of Gansu(Chinese Journal) </a>
 - **(2020/02/01)** One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems(Chinese Journal) </a>
 
 
