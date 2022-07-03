@@ -5,7 +5,7 @@ weight: 25
 design:
    columns: '1'
 ---
-<div style="overflow-y: auto; max-height:350px; ">
+<div style="overflow-y: auto; max-height:200px; ">
 		  <ul>
 			  <li>
 					[2022/07/04]  I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my Computer Graphics journey !
