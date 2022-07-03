@@ -41,7 +41,7 @@ design:
 			  		[2020/02/01] I joined Hengsheng Electronic Technology Co., Ltd. as a <span style="font-weight: bold;">Java intern</span> 
 			  </li>
 			  <li>
-			  		[2019/01/01] I joined the Laboratory for <span style="font-style: italic;">Intelligent Computing and Big Data (LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span> , supervised by Prof. Jiuyuan Huo
+			  		[2019/01/01] I joined the Laboratory for <span style="font-style: italic;">Intelligent Computing and Big Data Lab(LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span> , supervised by Prof. Jiuyuan Huo
 				</li>
 		  </ul>
 </div>
