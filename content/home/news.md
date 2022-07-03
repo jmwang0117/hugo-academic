@@ -5,7 +5,7 @@ weight: 25
 design:
    columns: '1'
 ---
-<pre style="width: 300px; height: 10pc; overflow-y: scroll;">
+<pre style="width: 1425px; height: 500px; overflow-y: scroll;">
 - **(2022/07/04)** I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html"> USTC Online Summer School</a> to start my **Computer Graphics** journey !
 - **(2022/06/29)** I completed the **ML Fundamentals** section of the OxML School !
 - **(2022/06/17)** I graduated from Lanzhou Jiaotong University!
