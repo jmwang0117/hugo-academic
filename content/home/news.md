@@ -16,6 +16,10 @@ design:
 			  <li>
 			  		[2022/06/17]  I graduated from Lanzhou Jiaotong University(LZJTU)!
 			  </li>
+        <li>
+			  		[2022/06/01] I joined the <span style="font-style: italic;">Institute of Automation, Chinese Academy of Sciences</span> as a <span style="font-weight: bold;">Research Intern</span>, supervised by Prof. Chi Zhang and Dr.Wenbo Chen
+			  				 
+			  </li>
 			  <li>
 			  		[2021/06/13]  Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> <span style="font-weight: bold;">(TOP 1%)</span>
 			  </li>
