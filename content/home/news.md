@@ -6,6 +6,8 @@ design:
 ---
 
 ## Academic Activities and News:
+- **(2022/07/04)** I attended "<a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html"> USTC Online Summer School</a>" to start my **Computer Graphics** journey !
+- **(2022/06/29)** I completed the ML Fundamentals section of the OxML School !
 - **(2022/06/17)** I graduated from Lanzhou Jiaotong University!
 - **(2021/06/13)** Won the "<a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person</a>" (**TOP 1%**)
 - **(2020/07/31)** A patent for invention is issued (**CN111476813A**)
