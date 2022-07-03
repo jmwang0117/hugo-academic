@@ -35,7 +35,16 @@ experience:
       - ML Fundamentals
       - ML x Finance
       
-      
+  - title: Summer Student - *USTC Online Summer School 2022*
+    company: University of Science and Technology of China
+    company_url: 'http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html'
+    company_logo: p6
+    location: Hefei, China
+    date_start: '2022-07-04'
+    date_end: '2022-07-09'
+    description: |2-
+      - Advances in Computer Graphics
+ 
 
     
 
