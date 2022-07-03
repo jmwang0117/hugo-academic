@@ -4,8 +4,6 @@ weight: 25
 design:
    columns: '1'
 ---
-
-## Academic Activities and News:
 - **(2022/07/04)** I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html"> USTC Online Summer School</a> to start my **Computer Graphics** journey !
 - **(2022/06/29)** I completed the **ML Fundamentals** section of the OxML School !
 - **(2022/06/17)** I graduated from Lanzhou Jiaotong University!
