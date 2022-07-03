@@ -34,6 +34,15 @@ design:
 			  <li>
 			  		[2020/02/01]  One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems (Chinese Journal) </a>
 			  </li>
+        <li>
+			  		[2021/01/01] I joined Jiabao Trading Co., Ltd. as a <span style="font-weight: bold;">Python intern</span> 
+			  </li>
+			  <li>
+			  		[2020/02/01] I joined Hengsheng Electronic Technology Co., Ltd. as a <span style="font-weight: bold;">Java intern</span> 
+			  </li>
+			  <li>
+			  		[2019/01/01] I joined the research group led by Prof. Jiuyuan Huo as a <span style="font-weight: bold;">Research Assistant</span> 
+			  </li>
 		  </ul>
 </div>
 
