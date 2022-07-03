@@ -6,8 +6,8 @@ design:
    columns: '1'
 ---
 <pre style="width: 1425px; max-height: 500px; overflow-y: auto;">
-<ul>
-  <li><[2022/07/04] 
+<ul style="font-size: 20px;">
+  <li><span style="font-weight: 100">[2022/07/04] </span>
   I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html"> USTC Online Summer School</a> to start my **Computer Graphics** journey !
   
   </li>
