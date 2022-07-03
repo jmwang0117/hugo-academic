@@ -1,3 +1,7 @@
+ pre {
+  overflow-y: auto;
+  max-height: 100px;
+}
 ---
 
 title: News
