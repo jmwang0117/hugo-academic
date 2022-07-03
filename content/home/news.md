@@ -5,13 +5,14 @@ weight: 25
 design:
    columns: '1'
 ---
-<pre style="width: 1150px; max-height: 450px; overflow-y: auto;">
-  <ul style="font-size: 21px; color: black; font-family: "Microsoft YaHei";">
-     <li><p style="font-weight: bold;">[2022/07/04]</p> I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my Computer Graphics journey !  </li>
 
+<div style="font-size: 21px; color: black; font-family: "Microsoft YaHei";">
+    
+    <pre style="width: 1150px; max-height: 450px; overflow-y: auto;">
+        <ul >
+            <li><p style="font-weight: bold;">[2022/07/04]</p> I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my Computer Graphics journey !  </li>
 
-
-  </ul>
+        </ul>
 
 [2022/06/29] I completed the **ML Fundamentals** section of the OxML School !
 [2022/06/17] I graduated from Lanzhou Jiaotong University!
@@ -22,3 +23,10 @@ design:
 [2020/02/20] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/LZKQ/detail">Scientific & Technical Information of Gansu (Chinese Journal) </a>
 [2020/02/01] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems (Chinese Journal) </a>
 </pre>
+
+
+
+</div>
+
+
+
