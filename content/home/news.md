@@ -8,12 +8,6 @@ design:
 
 <div style="font-size: 21px; color: black; font-family: "Microsoft YaHei";">
     
-    <pre style="width: 1150px; max-height: 450px; overflow-y: auto;">
-        <ul >
-            <li><p style="font-weight: bold;">[2022/07/04]</p> I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my Computer Graphics journey !  </li>
-
-        </ul>
-
 [2022/06/29] I completed the **ML Fundamentals** section of the OxML School !
 [2022/06/17] I graduated from Lanzhou Jiaotong University!
 [2021/06/13] Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> (**TOP 1%**)
@@ -22,6 +16,12 @@ design:
 [2020/03/01] One paper was accepted by **RICAI2020**
 [2020/02/20] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/LZKQ/detail">Scientific & Technical Information of Gansu (Chinese Journal) </a>
 [2020/02/01] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems (Chinese Journal) </a>
+    <pre style="width: 1150px; max-height: 450px; overflow-y: auto;">
+        <ul >
+            <li><p style="font-weight: bold;">[2022/07/04]</p> I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my Computer Graphics journey !  </li>
+
+        </ul>
+
 </pre>
 
 
