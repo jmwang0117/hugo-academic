@@ -24,18 +24,18 @@ date_format: Jan 2006
 experience:
 
 
-  - title: Summer Student - *Oxford Machine Learning Summer School(2022)*
+  - title: Summer Student(Online) - *Oxford Machine Learning Summer School (2022)*
     company: AI for Global Goals & The University of Oxford
     company_url: 'https://www.oxfordml.school/'
     company_logo: p5
-    location: St Catherine's College, Oxford-UK 
-    date_start: '2022-08-11'
+    location: Oxford, UK 
+    date_start: '2022-06-27'
     date_end: '2022-08-14'
     description: |2-
       - ML Fundamentals
       - ML x Finance
       
-  - title: Summer Student - *USTC Online Summer School 2022*
+  - title: Summer Student(Online) - *USTC Summer School (2022)*
     company: University of Science and Technology of China
     company_url: 'http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html'
     company_logo: p6
