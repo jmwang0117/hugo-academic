@@ -5,8 +5,8 @@ weight: 25
 design:
    columns: '1'
 ---
-<pre style="width: 1425px; max-height: 500px; overflow-y: auto;">
-<ul style="font-size: 24px; font-color: black; font-family: "times new roman";">
+<pre style="width: 1600px; max-height: 500px; overflow-y: auto;">
+<ul style="font-size: 21px; color: black; font-family: "times new roman";">
   <li><span style="font-weight: 100">[2022/07/04]</span> I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html"> USTC Online Summer School</a> to start my **Computer Graphics** journey !  </li>
 
 
