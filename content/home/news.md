@@ -35,8 +35,7 @@ design:
 			  		[2020/02/01] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems (Chinese Journal) </a>
 			  </li>
 		  </ul>
-		
-		</div>
+</div>
 
 
 
