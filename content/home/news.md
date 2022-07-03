@@ -42,8 +42,7 @@ design:
 			  </li>
 			  <li>
 			  		[2019/01/01] I joined the Laboratory for <span style="font-style: italic;">Intelligent Computing and Big Data (LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span> , supervised by Prof. Jiuyuan Huo
-					 
-			  </li>
+				</li>
 		  </ul>
 </div>
 
