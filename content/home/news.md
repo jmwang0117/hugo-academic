@@ -1,10 +1,5 @@
 ---
-<style>
-pre {
-  overflow-y: auto;
-  max-height: 300px;
-}
-</style>
+
 title: News
 weight: 25
 design:
