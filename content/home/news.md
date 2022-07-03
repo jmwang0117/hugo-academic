@@ -14,3 +14,6 @@ weight: 25
 - **(2020/02/01)** One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers & Embedded Systems (Chinese Journal) </a>
 
 
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
