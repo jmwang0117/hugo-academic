@@ -34,7 +34,10 @@ social:
     link: https://www.linkedin.com/in/junming-wang-3b0973207/
     icon_pack: fab
     icon: linkedin
-
+    
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ComWjm
 organizations:
   - name: The University of Hong kong
     url: https://www.hku.hk/
