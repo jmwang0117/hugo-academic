@@ -16,9 +16,8 @@ design:
 			  <li>
 			  		[2022/06/17]  I graduated from Lanzhou Jiaotong University(LZJTU)!
 			  </li>
-        
-			  <li>
-			  		[2021/06/13]  Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> <span style="font-weight: bold;">(TOP 1%)</span>
+        <li>
+			[2021/06/13]  Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> <span style="font-weight: bold;">(TOP 1%)</span>
 			  </li>
 			  <li>
 			  		[2020/07/31]  A patent for invention is issued <span style="font-weight: bold;">(CN111476813A)</span>
